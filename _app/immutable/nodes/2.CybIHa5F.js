@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import{i as r}from"../chunks/Dh-IrQmQ.js";import{o as s}from"../chunks/QDKAc2YW.js";import{p as e,b as n,a as p,d as m}from"../chunks/WJ7VLXeo.js";var d=n('<div id="testing"></div>');function h(a,t){e(t,!1),s(async()=>{let i=await(await fetch("/data.json")).json();testing.innerHTML=i.free}),r();var o=d();p(a,o),m()}export{h as component};
